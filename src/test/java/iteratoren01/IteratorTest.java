@@ -1,5 +1,7 @@
 package iteratoren01;
 
+import de.assignments.iteratoren01.Student;
+import de.assignments.iteratoren01.Studiengruppe;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
